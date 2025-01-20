@@ -24,4 +24,4 @@ This repository contains a Power BI dashboard that analyzes sales data across FI
 - **SQL**: Data extraction from the source database.
 
 ## How to Access the Dashboard
-- The Power BI report and dashboard can be accessed [Power BI Dashboard] (https://app.powerbi.com/links/rcD0BHTwBC?ctid=73398a8a-1bd5-47d0-a76c-cc59d4343b72&pbi_source=linkShare&bookmarkGuid=502117d1-0be1-49ce-8f36-18043435fe62)
+- The Power BI report and dashboard can be accessed **[POWERBI DASHBOARD](https://app.powerbi.com/links/rcD0BHTwBC?ctid=73398a8a-1bd5-47d0-a76c-cc59d4343b72&pbi_source=linkShare&bookmarkGuid=e472434d-9c48-4b17-8759-5cfe628aca3f)** 
