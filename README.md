@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Analysis Across 5 Countries
+# 📊 Power BI Sales Analysis of Global-Bicycle Across 5 Countries  
 
 # 🌍Overview
 
@@ -11,7 +11,7 @@ The dashboard provides a comprehensive view of sales trends, revenue comparisons
 ---
 
 ## 📌 Dashboard Preview  
-![Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/Screenshot%202025-02-14%20050910.png)  
+![Dashboard Preview](https://github.com/wakandamohan1/Global-Bicycle-Sales-Financial-Insights/blob/main/Screenshot%202025-03-23%20131157.png)  
 
 --- 
 
@@ -76,4 +76,4 @@ Click here to explore the Power BI Dashboard:
 
 ## 📥 Download Links  
 
-📊 **Power BI Dashboard:** [DOWNLOAD]()  
+📊 **Power BI Dashboard:** [DOWNLOAD](https://drive.google.com/file/d/1yqJtS3dFozra8fA7VMdUbnZ3sTxCeegJ/view?usp=drive_link)  
