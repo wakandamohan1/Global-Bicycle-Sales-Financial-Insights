@@ -1,6 +1,6 @@
 # 📊 Power BI Sales Analysis Across 5 Countries
 
-##🌍 Overview
+# 🌍Overview
 
 This repository contains a Power BI dashboard that analyzes sales data across FIVE countries:
 
