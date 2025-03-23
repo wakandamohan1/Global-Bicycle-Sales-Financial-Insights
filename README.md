@@ -20,9 +20,13 @@ The dashboard provides a comprehensive view of sales trends, revenue comparisons
 ---
 
 🔹 Key Metrics Covered:
+
 ✔ Total Sales & Revenue
+
 ✔ Sales by Product Category
+
 ✔ Regional Sales Breakdown
+
 ✔ Trends & Insights Over Time
 
 ---
