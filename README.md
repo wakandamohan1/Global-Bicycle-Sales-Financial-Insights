@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Analysis of Global-Bicycle Across 5 Countries  
+# 📊 Power BI Analysis of Global-Bicycle Sales Across 5 Countries  
 
 # 🌍Overview
 
