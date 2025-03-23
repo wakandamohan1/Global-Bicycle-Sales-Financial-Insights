@@ -32,9 +32,13 @@ The dashboard provides a comprehensive view of sales trends, revenue comparisons
 ---
 
 🚀 Key Features
+
 📊 Sales Performance Overview: Total sales and revenue comparisons.
+
 📦 Product Categories: Best-selling bicycle types and revenue distribution.
+
 📍 Regional Comparison: Sales breakdown by location within each country.
+
 📈 Trends & Insights: Interactive charts to explore yearly, quarterly, and monthly sales trends.
 
 ---
@@ -46,8 +50,11 @@ Data is simulated for demonstration purposes.
 ---
 
 🛠 Tools & Technologies Used
+
 📊 Power BI – Dashboard creation & data visualization.
+
 📑 Excel – Data cleaning & preparation.
+
 🛢 SQL – Data extraction from the database.
 
 ---
