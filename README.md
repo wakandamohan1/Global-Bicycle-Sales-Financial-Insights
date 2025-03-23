@@ -2,6 +2,7 @@
 
 ##🌍 Overview
 This repository contains a Power BI dashboard that analyzes sales data across FIVE countries:
+
 📍 USA | 📍 France | 📍 Germany | 📍 Mexico | 📍 Canada
 ---
 The dashboard provides a comprehensive view of sales trends, revenue comparisons, and performance indicators for each country.
@@ -9,7 +10,9 @@ The dashboard provides a comprehensive view of sales trends, revenue comparisons
 
 ## 🎯 Project Objectives
 ✅ Visualize sales performance across 5 countries.
+
 ✅ Compare & Analyze total sales, product categories, and regional variations.
+
 ✅ Create interactive Power BI visuals for data-driven decisions.
 
 ---
