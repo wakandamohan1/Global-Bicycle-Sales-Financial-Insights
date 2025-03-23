@@ -10,6 +10,12 @@ The dashboard provides a comprehensive view of sales trends, revenue comparisons
 
 ---
 
+## 📌 Dashboard Preview  
+![Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/Screenshot%202025-02-14%20050910.png)  
+
+--- 
+
+
 ## 🎯 Project Objectives
 ✅ Visualize sales performance across 5 countries.
 
@@ -58,6 +64,16 @@ Data is simulated for demonstration purposes.
 🛢 SQL – Data extraction from the database.
 
 ---
+📂 Dataset & Usage Instructions
+Important:
+
+Download and open the google drive link in .pbix format using Power BI Desktop.
+
+---
 📌 How to Access the Dashboard
 Click here to explore the Power BI Dashboard:
-🔗 VIEW DASHBOARD **[POWERBI DASHBOARD](https://app.powerbi.com/links/rcD0BHTwBC?ctid=73398a8a-1bd5-47d0-a76c-cc59d4343b72&pbi_source=linkShare&bookmarkGuid=e472434d-9c48-4b17-8759-5cfe628aca3f)** 
+🔗 VIEW DASHBOARD FROM POWER BI SERVICE  **[POWERBI DASHBOARD](https://app.powerbi.com/links/rcD0BHTwBC?ctid=73398a8a-1bd5-47d0-a76c-cc59d4343b72&pbi_source=linkShare&bookmarkGuid=e472434d-9c48-4b17-8759-5cfe628aca3f)** 
+
+## 📥 Download Links  
+
+📊 **Power BI Dashboard:** [DOWNLOAD]()  
