@@ -1,27 +1,37 @@
-# Power BI Sales Analysis Across 5 Countries
+# 📊 Power BI Sales Analysis Across 5 Countries
 
-## Overview
-This repository contains a Power BI dashboard that analyzes sales data across FIVE countries: the **USA**, **France**, **Germany**, **Mexico** and **Canada**. The dashboard provides a comprehensive view of sales trends, revenue comparisons, and performance indicators for each country. The analysis includes key metrics such as sales volume, revenue by region, and product category breakdowns.
+##🌍 Overview
+This repository contains a Power BI dashboard that analyzes sales data across FIVE countries:
+📍 USA | 📍 France | 📍 Germany | 📍 Mexico | 📍 Canada
 
-## Project Objectives
-- Visualize the sales performance across four countries.
-- Analyze and compare total sales, product categories, and regional variations.
-- Create interactive Power BI visuals to help stakeholders make data-driven decisions.
+The dashboard provides a comprehensive view of sales trends, revenue comparisons, and performance indicators for each country.
 
-## Key Features
-- **Sales Performance Overview:** Total sales and revenue comparison across all 5 countries.
-- **Product Categories:** Analysis of the most popular bicycle types and categories by sales volume and revenue.
-- **Regional Comparison:** Breakdowns of sales performance by region within each country.
-- **Trends and Insights:** Interactive charts to explore sales trends over time.
+## 🎯 Project Objectives
+✅ Visualize sales performance across 5 countries.
+✅ Compare & Analyze total sales, product categories, and regional variations.
+✅ Create interactive Power BI visuals for data-driven decisions.
 
-## Data Sources
-- The dataset includes historical sales data, covering metrics such as sales volume, revenue, and product category for bicycles sold in the USA, France, Germany, and Canada.
-- The data used in this analysis is simulated for demonstration purposes.
+🔹 Key Metrics Covered:
+✔ Total Sales & Revenue
+✔ Sales by Product Category
+✔ Regional Sales Breakdown
+✔ Trends & Insights Over Time
 
-## Tools & Technologies
-- **Power BI**: Data visualization and dashboard creation.
-- **Excel**: Data cleaning and preparation.
-- **SQL**: Data extraction from the source database.
+🚀 Key Features
+📊 Sales Performance Overview: Total sales and revenue comparisons.
+📦 Product Categories: Best-selling bicycle types and revenue distribution.
+📍 Regional Comparison: Sales breakdown by location within each country.
+📈 Trends & Insights: Interactive charts to explore yearly, quarterly, and monthly sales trends.
 
-## How to Access the Dashboard
-- The Power BI report and dashboard can be accessed **[POWERBI DASHBOARD](https://app.powerbi.com/links/rcD0BHTwBC?ctid=73398a8a-1bd5-47d0-a76c-cc59d4343b72&pbi_source=linkShare&bookmarkGuid=e472434d-9c48-4b17-8759-5cfe628aca3f)** 
+🔗 Data Sources
+The dataset includes historical sales data, covering metrics like sales volume, revenue, and product categories for bicycles.
+Data is simulated for demonstration purposes.
+
+🛠 Tools & Technologies Used
+📊 Power BI – Dashboard creation & data visualization.
+📑 Excel – Data cleaning & preparation.
+🛢 SQL – Data extraction from the database.
+
+📌 How to Access the Dashboard
+Click here to explore the Power BI Dashboard:
+🔗 VIEW DASHBOARD **[POWERBI DASHBOARD](https://app.powerbi.com/links/rcD0BHTwBC?ctid=73398a8a-1bd5-47d0-a76c-cc59d4343b72&pbi_source=linkShare&bookmarkGuid=e472434d-9c48-4b17-8759-5cfe628aca3f)** 
